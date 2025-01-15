@@ -4,7 +4,8 @@
 <h3 align="center"> 
   💡An ambitious learner pursuing Bachelor of Engineering in Computer Science at KIOT 🎓.<br>
 I'm passionate about acquiring and admiring new technologies and trends 🚀.<br>
-I believe in learning through every line of code!. Based in Salem, Tamil Nadu 🌴, I am currently focused on enhancing my skills in programming and technology 💻. <br>
+I believe in learning through every line of code!. <br>
+Based in Salem, Tamil Nadu 🌴, I am currently focused on enhancing my skills in programming and technology 💻. <br>
 As a computer science student 🎓 exploring innovative solutions to real-world problems 💡.</h3>
 
 <h5 align="center">
