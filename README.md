@@ -24,4 +24,4 @@ Here are some of my GitHub stats:
 
 ## Connect with Me 🤝
 
-{"Elango Kannan":"https://www.linkedin.com/in/elango-kannan-bbaa3928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"}
+[Elango Kannan](https://www.linkedin.com/in/elango-kannan-bbaa3928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
