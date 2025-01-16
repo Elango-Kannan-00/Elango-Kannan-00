@@ -14,7 +14,7 @@ As a computer science student 🎓 exploring innovative solutions to real-world 
   
  🌱 I’m currently learning - **Java programming**<br>
  👯 I’m looking to collaborate on - **Frontend Development**<br>
- 📫 How to reach me - **elango.kiot@gmail,com**<br>
+ 📫 How to reach me - **elango.kiot@gmail.com**<br>
  ⚡ Fun fact - **The first computer bug was an actual bug?🐛 <br>
  In 1947,a moth got trapped in a relay of the Harvard Mark II computer, causing a malfunction.**
 
