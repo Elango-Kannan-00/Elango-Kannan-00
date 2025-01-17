@@ -33,16 +33,16 @@ As a computer science student 🎓 exploring innovative solutions to real-world 
 
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <br>
+<h3 align="Center">My GitHub's Stat📈 </h3>
 <a href="https://github.com/Elango-Kannan-00">
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elango-Kannan-00&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elango-Kannan-00&theme=dark" height="180em" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elango-Kannan-00&theme=merko" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elango-Kannan-00&theme=merko" height="180em" /></p>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elango-Kannan-00&layout=compact&theme=merko" alt=Elango-Kannan-00 />
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Elango-Kannan-00&theme=merko" alt="Elango-Kannan-00" /></p>
 <br>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Elango-Kannan-00&theme=dark" alt="Elango-Kannan-00" /></p>
-<br>
-
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Elango-Kannan-00&theme=chartreuse-dark"/>
 
-
+<h1 align="center">✨ That's All Folks! ✨</h1>
 
 
 
