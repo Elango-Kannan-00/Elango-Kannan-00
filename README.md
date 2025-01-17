@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elango Kannan 👨‍💻</h1>
+<h1 align="center">Hi 👋, I'm Elango K 👨‍💻</h1>
 
 <h4 align="center"> About Me 🙋‍♂️</h4>
 <h3 align="center"> 
