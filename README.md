@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Elango K 👨‍💻</h1>
-
 <h4 align="center"> About Me 🙋‍♂️</h4>
 <h3 align="center"> 
   💡An ambitious learner pursuing Bachelor of Engineering in Computer Science at KIOT 🎓.<br>
