@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Elango K 👨‍💻</h1>
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"></p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400"></p>
 <h4 align="center"> About Me 🙋‍♂️</h4>
 <h3 align="center"> 
   💡An ambitious learner pursuing Bachelor of Engineering in Computer Science at KIOT 🎓.<br>
