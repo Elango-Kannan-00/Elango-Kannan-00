@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Elango K 👨‍💻</h1>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
-
-
+<br>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
+<br>
 <h4 align="center"> About Me 🙋‍♂️</h4>
 <h3 align="center"> 
   💡An ambitious learner pursuing Bachelor of Engineering in Computer Science at KIOT 🎓.<br>
