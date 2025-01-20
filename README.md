@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Elango K 👨‍💻</h1>
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500"></p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
+
 
 <h4 align="center"> About Me 🙋‍♂️</h4>
 <h3 align="center"> 
