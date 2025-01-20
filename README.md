@@ -36,6 +36,8 @@ As a computer science student 🎓 exploring innovative solutions to real-world 
 </p>
 </h5>
 <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Elango-Kannan-00&label=Profile%20views&color=0e75b6&style=flat" alt="Elango-Kannan-00" /> </p>
+
 <h3 align="center"> Connect with Me 🤝 </h3>
 <p align="center"> 
   <a href="mailto:dhanush.srini11@gmail.com"><img  align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40" height="40"></a>
