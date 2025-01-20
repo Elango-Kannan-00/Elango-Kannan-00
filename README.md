@@ -36,7 +36,6 @@ As a computer science student 🎓 exploring innovative solutions to real-world 
 <br>
 <h3 align="center"> Connect with Me 🤝 </h3>
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" href="https://www.linkedin.com/in/elango-kannan-bbaa3928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank" width="80">
 <a href="https://www.linkedin.com/in/elango-kannan-bbaa3928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elango kannan" height="30" width="40" /></a>
 <a href="https://x.com/Elango_Kannan_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Elango_Kannan_0" height="30" width="40" /></a>
 </p>
