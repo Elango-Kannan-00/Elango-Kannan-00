@@ -11,7 +11,7 @@ I believe in learning through every line of code!. <br>
 Based in Salem, Tamil Nadu 🌴, I am currently focused on enhancing my skills in programming and technology 💻. <br>
 As a computer science student 🎓 exploring innovative solutions to real-world problems 💡.</h3>
 
-<h5 align="center">
+<h3 align="center">
   <br>
 <p align="center">  
   
