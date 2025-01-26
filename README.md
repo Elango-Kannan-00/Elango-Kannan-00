@@ -30,9 +30,9 @@ As a computer science student 🎓 exploring innovative solutions to real-world 
 <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elango-Kannan-00&theme=merko" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elango-Kannan-00&theme=merko" height="180em" /></p>
 
-<p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Elango-Kannan-00&theme=merko" alt="Elango-Kannan-00" /></p>
+
 <br>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Elango-Kannan-00&theme=chartreuse-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Elango-Kannan-00&theme=chartreuse-"github-compact"/>
 </p>
 </h5>
 <br>
