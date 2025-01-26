@@ -32,7 +32,7 @@ As a computer science student 🎓 exploring innovative solutions to real-world 
 
 
 <br>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Elango-Kannan-00&theme=chartreuse-"github-compact"/>
+<img src ="https://github-readme-activity-graph.vercel.app/graph?username=Elango-Kannan-00&theme=github-compact">
 </p>
 </h5>
 <br>
