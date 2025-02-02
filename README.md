@@ -3,7 +3,7 @@
 <br>
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
 <br>
-<h4 align="center"> About Me 🙋‍♂️</h4>
+<h3 align="center"> About Me 🙋‍♂️</h3>
 <h3 align="center"> 
   💡An ambitious learner pursuing Bachelor of Engineering in Computer Science at KIOT 🎓.<br>
 I'm passionate about acquiring and admiring new technologies and trends 🚀.<br>
