@@ -4,11 +4,11 @@
 <br>
 <h3 align="center"> About Me 🙋‍♂</h3>
 <h3 align="center"> 
-  💡An ambitious learner pursuing Bachelor of Engineering in Computer Science at KIOT 🎓.<br>
-I'm passionate about acquiring and admiring new technologies and trends 🚀.<br>
-I believe in learning through every line of code!. <br>
-Based in Salem, Tamil Nadu 🌴, I am currently focused on enhancing my skills in programming and technology 💻. <br>
-As a computer science student 🎓 exploring innovative solutions to real-world problems 💡.</h3>
+🎓 CSE undergrad @ KIOT | 💻 Tech Enthusiast<br>
+🚀 Exploring emerging tech & trends<br>
+💡 Building real-world solutions through code<br>
+🌴 Based in Salem, Tamil Nadu<br>
+🔁 Learning, growing, and coding every day! </h3>
 
 <h4 align="center">
   <br>
