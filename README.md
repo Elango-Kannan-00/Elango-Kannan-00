@@ -6,11 +6,10 @@
 <h3 align="center"> 
 🎓 CSE undergrad @ KIOT | 💻 Tech Enthusiast<br>
 🚀 Exploring emerging tech & trends<br>
-💡 Building real-world solutions through code<br>
 🌴 Based in Salem, Tamil Nadu<br>
 🔁 Learning, growing, and coding every day! </h3>
 
-<h4 align="center">
+<h3 align="center">
   <br>
 <p align="center">  
   
@@ -19,7 +18,7 @@
  📫 How to reach me - **elango.kiot@gmail.com**<br>
  ⚡ Fun fact - **The first computer bug was an actual bug?🐛 <br>
  In 1947,a moth got trapped in a relay of the Harvard Mark II computer, causing a malfunction.**
- </p></h4>
+ </p></h3>
 
 <h3 align="center">Languages and Tools 🛠 </h3> 
 
