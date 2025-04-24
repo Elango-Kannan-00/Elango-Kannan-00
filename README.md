@@ -35,8 +35,8 @@ In 1947, a moth got trapped in the Harvard Mark II computer, causing a malfuncti
 
 <h3 align="center">🚀 Featured Projects</h3>
 <p align="center">
-  <a href="https://github.com/Elango-Kannan-00/your-cool-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elango-Kannan-00&repo=your-cool-project&theme=highcontrast"/>
+  <a href="https://github.com/Elango-Kannan-00/Article_Recommendation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elango-Kannan-00&repo=Article_Recommendation&theme=highcontrast"/>
   </a>
   <!-- Add more project cards as needed -->
 </p>
