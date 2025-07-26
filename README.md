@@ -27,8 +27,8 @@ In 1947, a moth got trapped in the Harvard Mark II computer, causing a malfuncti
 
 <h3 align="center">Languages & Tools 🛠</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,java,html" /><br>
-  C • Python • Java • HTML 
+  <img src="https://skillicons.dev/icons?i=py,java,html" /><br>
+  Python • Java • HTML 
 </p>
 
 ---
