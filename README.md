@@ -45,8 +45,14 @@ In 1947, a moth got trapped in the Harvard Mark II computer, causing a malfuncti
 
 <h3 align="center">GitHub Stats 📈</h3>
 <p align="center">
+  <!-- Stats -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elango-Kannan-00&theme=highcontrast" height="180em" />
+  
+  <!-- Top Languages -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elango-Kannan-00&theme=highcontrast" height="180em" />
+  
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Elango-Kannan-00&theme=highcontrast&hide_total_contributions=true&ring=yellowdark&fire=yellowdark&currStreakNum=yellowdark" height="180em" />
 </p>
 
 <p align="center">
