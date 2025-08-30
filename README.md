@@ -51,10 +51,11 @@
   <!-- Top Languages -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elango-Kannan-00&theme=highcontrast" height="180em" />
   
-  <!-- Streak (compact, same size) -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Elango-Kannan-00&theme=highcontrast" height="180em" />
+ <img src="https://streak-stats.demolab.com?user=Elango-Kannan-00&theme=highcontrast&ring=yellow&fire=yellow&currStreakNum=yellow&sideNums=yellow&currStreakLabel=white&hide_border=true" height="180em" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elango-Kannan-00&theme=high-contrast" alt="Contribution Graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elango-Kannan-00&theme=high-contrast&line=FFD700&point=FFD700" alt="Contribution Graph" />
+
+
 </p>
 <br>
 
