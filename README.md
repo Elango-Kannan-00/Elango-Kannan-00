@@ -53,6 +53,8 @@
   
   <!-- Streak (compact, same size) -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Elango-Kannan-00&theme=highcontrast" height="180em" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elango-Kannan-00&theme=high-contrast" alt="Contribution Graph" />
 </p>
 <br>
 
