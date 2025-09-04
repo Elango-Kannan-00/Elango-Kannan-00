@@ -24,7 +24,6 @@
 <p align="left">
 <!-- Programming Languages -->
 <img src="https://skillicons.dev/icons?i=py,java,html,css,js" /><br>
-<strong>Python • Java • HTML • CSS • JavaScript</strong>
 </p>
 <br>
 
@@ -32,7 +31,6 @@
 <p align="left">
 <!-- Tools -->
 <img src="https://skillicons.dev/icons?i=vscode,git,github" /><br>
-<strong>VS Code • Git • GitHub</strong>
 </p>
 <br>
 
