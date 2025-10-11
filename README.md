@@ -19,11 +19,18 @@
 ⚡ Fun Fact: *The first computer bug was an actual bug! 🐛 — In 1947, a moth got trapped in the Harvard Mark II computer, causing a malfunction.*  
 <br>
 
-## Languages 🌐
+## Frontend Development 🌐
 
 <p align="left">
 <!-- Programming Languages -->
-<img src="https://skillicons.dev/icons?i=py,java,html,css,js" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" /><br>
+</p>
+<br>
+
+## Backend Development 🧠
+<p align="left">
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=py,java" /><br>
 </p>
 <br>
 
@@ -31,6 +38,13 @@
 <p align="left">
 <!-- Tools -->
 <img src="https://skillicons.dev/icons?i=vscode,git,github" /><br>
+</p>
+<br>
+
+## Desing & Prototype 🖼️
+<p align="left">
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=figma" /><br>
 </p>
 <br>
 
