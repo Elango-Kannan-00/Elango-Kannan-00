@@ -41,7 +41,7 @@
 </p>
 <br>
 
-## Desing & Prototype 🖼️
+## Designing & Prototype 🖼️
 <p align="left">
 <!-- Programming Languages -->
 <img src="https://skillicons.dev/icons?i=figma" /><br>
