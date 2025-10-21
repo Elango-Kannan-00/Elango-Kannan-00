@@ -14,7 +14,7 @@
 ## Currently 🔍
 
 🌱 Learning: **Web Development**  
-👯 Looking to collaborate on: **AI Tools & Development**  
+👯 Looking to collaborate on: **Frontend Development**  
 📫 Reach me at: **elango.kiot@gmail.com**  
 ⚡ Fun Fact: *The first computer bug was an actual bug! 🐛 — In 1947, a moth got trapped in the Harvard Mark II computer, causing a malfunction.*  
 <br>
