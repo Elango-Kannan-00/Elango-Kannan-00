@@ -4,9 +4,7 @@
 
 ## About Me 🙋‍♂️
 
-🎓 CSE undergrad @ KIOT <br>
-💻 Tech Enthusiast  
-🚀 Exploring emerging tech & trends  
+🎓 CSE undergrad @ KIOT <br> 
 🌴 Based in Salem, Tamil Nadu  
 🔁 Learning, growing, and coding every day!  
 <br>
