@@ -25,7 +25,7 @@
  - ## Web Development 🌐
       <p align="left">
       <!-- Programming Languages -->
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,MySQL" /><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,mysql" /><br>
       </p>
       <br>
 
