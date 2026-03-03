@@ -32,7 +32,7 @@
  - ## Tools 🛠  
       <p align="left">
       <!-- Tools -->
-      <img src="https://skillicons.dev/icons?i=GitHub,vscode,eclipse,GitHub" /><br>
+      <img src="https://skillicons.dev/icons?i=GitHub,vscode,eclipse,GitHub,git" /><br>
       </p>
       <br>
 
