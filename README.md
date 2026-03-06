@@ -13,8 +13,8 @@
 - Fun Fact: *The first computer bug was an actual bug! 🐛 — In 1947, a moth got trapped in the Harvard Mark II computer, causing a malfunction.*  
 <br>
 
-# Technologies Used 💻
-- ## Programming Language 🧠
+# Technologies Used 
+- ## Programming Language 
 
     <p align="left">
     <!-- Programming Languages -->
@@ -22,34 +22,34 @@
       </p>
       <br>
 
- - ## Web Development 🌐
+ - ## Web Development 
       <p align="left">
       <!-- Programming Languages -->
       <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,mysql" /><br>
       </p>
       <br>
 
- - ## Tools 🛠  
+ - ## Tools 
       <p align="left">
       <!-- Tools -->
       <img src="https://skillicons.dev/icons?i=github,vscode,eclipse," /><br>
       </p>
       <br>
 
- - ## Designing & Prototype 🖼️
+ - ## Designing & Prototype 
       <p align="left">
       <!-- Programming Languages -->
       <img src="https://skillicons.dev/icons?i=figma,canva" /><br>
       </p>
       <br>
 
-# Featured Projects 🚀
+# Featured Projects 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Logic-Loom-00&repo=Article_Recommendation&theme=highcontrast)](https://github.com/Logic-Loom-00/Article_Recommendation)
 
 <!-- Add more projects like this -->
 <br>
 
-# GitHub Stats 📈  
+# GitHub Stats 
 
 <p align="center">
   <!-- Stats -->
@@ -65,7 +65,7 @@
 
 [![An image of @elangokannan00's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elangokannan00)](https://holopin.io/@elangokannan00)
 
-# Connect with Me 🤝  
+# Connect with Me 
 <p align="left">
   <a href="https://www.linkedin.com/in/elango-kannan-bbaa3928b" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
