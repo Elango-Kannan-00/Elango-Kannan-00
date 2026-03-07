@@ -32,36 +32,10 @@
  - ## Tools 
       <p align="left">
       <!-- Tools -->
-      <img src="https://skillicons.dev/icons?i=github,vscode,eclipse," /><br>
+      <img src="https://skillicons.dev/icons?i=github,vscode,eclipse,figma,canva" /><br>
       </p>
       <br>
 
- - ## Designing & Prototype 
-      <p align="left">
-      <!-- Programming Languages -->
-      <img src="https://skillicons.dev/icons?i=figma,canva" /><br>
-      </p>
-      <br>
-
-# Featured Projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Logic-Loom-00&repo=Article_Recommendation&theme=highcontrast)](https://github.com/Logic-Loom-00/Article_Recommendation)
-
-<!-- Add more projects like this -->
-<br>
-
-# GitHub Stats 
-
-<p align="center">
-  <!-- Stats -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elango-Kannan-00&theme=highcontrast" height="180em" />
-  
-  <!-- Top Languages -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elango-Kannan-00&theme=highcontrast" height="180em" />
-
-  <!-- Contribution Graph -->
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elango-Kannan-00&theme=high-contrast&line=FFD700&point=FFD700" alt="Contribution Graph" />
-</p>
-<br>
 
 [![An image of @elangokannan00's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elangokannan00)](https://holopin.io/@elangokannan00)
 
