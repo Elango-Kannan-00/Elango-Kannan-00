@@ -1,56 +1,26 @@
-# Hi 👋, I'm Elango K 👨‍💻
+### Hello Everyone, I'm Elango Kannan 🌟
 
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="600">
+### About Me 
 
-# About Me 🙋‍♂️
-
-- Computer Science Engineer undergrad @ KIOT <br> 
-- Based in Namakkal, Tamil Nadu  
-- Learning, growing, and coding every day!  
-- Current Learning: **Web Development**  
+- Computer Science Engineer undergraduate at Knowledge Institute of Technology, Salem. <br> 
+- Based in Namakkal, Tamil Nadu.
+- Current Learning: **Java and Web Development**  
 - Looking to collaborate on: **Frontend Development**  
 - Reach me at: **elango.kiot@gmail.com**
-- Fun Fact: *The first computer bug was an actual bug! 🐛 — In 1947, a moth got trapped in the Harvard Mark II computer, causing a malfunction.*  
+- Visit my Portfolio -
+- GeeksforGeeks - 
 <br>
 
-# Technologies Used 
-- ## Programming Language 
+### Skills
 
-    <p align="left">
-    <!-- Programming Languages -->
-      <img src="https://skillicons.dev/icons?i=java,python" /><br>
-      </p>
-      <br>
-
- - ## Web Development 
-      <p align="left">
-      <!-- Programming Languages -->
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,mysql" /><br>
-      </p>
-      <br>
-
- - ## Tools 
-      <p align="left">
-      <!-- Tools -->
-      <img src="https://skillicons.dev/icons?i=github,vscode,eclipse,figma,canva" /><br>
-      </p>
-      <br>
-
-
-[![An image of @elangokannan00's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elangokannan00)](https://holopin.io/@elangokannan00)
-
-# Connect with Me 
-<p align="left">
-  <a href="https://www.linkedin.com/in/elango-kannan-bbaa3928b" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a> 
-  <a href="mailto:elango.kiot@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a> 
-  <a href="https://x.com/Elango_Kannan_0">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
+| Category              | Skills |
+|-----------------------|--------|
+| **Programming Languages** | ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) |
+| **Web Development**   | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) <br> ![MySQL](https://skillicons.dev/icons?i=mysql) |
+| **DevTools**             | ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Eclipse](https://skillicons.dev/icons?i=eclipse) ![Figma](https://skillicons.dev/icons?i=figma) ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea) |
 <br>
 
-# ✨ That's All Folks! ✨
+### Connect with Me 
+| Contact              | Platform |
+|----------------------|----------|
+| **Elango Kannan** | ![LinkedIn](https://skillicons.dev/icons?i=linkedin) ![Gmail](https://skillicons.dev/icons?i=gmail) ![Twitter](https://skillicons.dev/icons?i=twitter) |
