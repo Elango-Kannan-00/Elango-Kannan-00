@@ -16,7 +16,7 @@
 | Category              | Skills |
 |-----------------------|--------|
 | **Programming Languages** | ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) |
-| **Web Development**   | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) <br> ![MySQL](https://skillicons.dev/icons?i=mysql) |
+| **Web Development**   | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) ![MySQL](https://skillicons.dev/icons?i=mysql) |
 | **DevTools**             | ![Figma](https://skillicons.dev/icons?i=figma) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Eclipse](https://skillicons.dev/icons?i=eclipse) ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea) |
 <br>
 
