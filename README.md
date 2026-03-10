@@ -7,7 +7,7 @@
 - Current Learning: **Java and Web Development**  
 - Looking to collaborate on: **Frontend Development**  
 - Reach me at: **elango.kiot@gmail.com**
-- Visit my Portfolio - [Elango Kannan](https://portfolio-website-eta-nine-41.vercel.app/) 
+- Visit my Portfolio - [EK](https://portfolio-website-eta-nine-41.vercel.app/) 
 - GeeksforGeeks - [elangokannan00](https://www.geeksforgeeks.org/profile/elangokannan00)
 <br>
 
