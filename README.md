@@ -24,3 +24,16 @@
 | Contact              | Platform |
 |----------------------|----------|
 | **Elango Kannan** | ![LinkedIn](https://skillicons.dev/icons?i=linkedin) ![Gmail](https://skillicons.dev/icons?i=gmail) ![Twitter](https://skillicons.dev/icons?i=twitter) |
+<br>
+
+### GFG STATS
+
+<p align="left">
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=elangokannan00" />
+</p>
+
+🔗 Profile: [Elango Kannan](https://www.geeksforgeeks.org/profile/elangokannan00)
+
+![GFG Daily Coding Streak](https://img.shields.io/badge/GFG%20Daily%20Streak-50%20Days-darkgreen?style=for-the-badge)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Elango-kannan-00&style=for-the-badge&color=000000)
