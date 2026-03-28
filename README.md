@@ -22,13 +22,6 @@
 | **DevTools**             | ![Figma](https://skillicons.dev/icons?i=figma) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Eclipse](https://skillicons.dev/icons?i=eclipse) ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea) ![Vercel](https://skillicons.dev/icons?i=vercel) |
 <br>
 
-### GFG STATS
-
-<p align="left">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=elangokannan00" />
-</p>
-<br>
-
 ### CONTACT EK 
 | Contact              | Platforms |
 |----------------------|----------|
