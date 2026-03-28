@@ -15,7 +15,7 @@
 
 ### SKILLS
 
-| Category              | Skills |
+| Category              | Technologies |
 |-----------------------|--------|
 | **Programming Languages** | ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) |
 | **Web Technologies**   | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) ![MySQL](https://skillicons.dev/icons?i=mysql) |
