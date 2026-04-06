@@ -18,8 +18,9 @@
 | Category              | Technologies |
 |-----------------------|--------|
 | **Programming Languages** | ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) |
-| **Web Technologies**   | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) ![MySQL](https://skillicons.dev/icons?i=mysql) |
-| **DevTools**             | ![Figma](https://skillicons.dev/icons?i=figma) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Eclipse](https://skillicons.dev/icons?i=eclipse) ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea) ![Vercel](https://skillicons.dev/icons?i=vercel) |
+| **Web Technologies**   | [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,mysql,fastapi)](https://skillicons.dev) 
+| **DevTools**             | [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,vercel,postman)](https://skillicons.dev)  
+<br>
 <br>
 
 ### CONTACT EK 
