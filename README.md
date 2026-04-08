@@ -17,9 +17,12 @@
 
 | Category              | Technologies |
 |-----------------------|--------|
-| **Programming Languages** | ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) |
-| **Web Technologies**   | [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,mysql,fastapi)](https://skillicons.dev) 
-| **DevTools**             | [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,vercel,postman)](https://skillicons.dev)  
+| **Programming Language** | [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)  |
+| **Frontend Development**   | [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,redux)](https://skillicons.dev) 
+| **Backend Development**             | [![My Skills](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)  
+| **Databases**             | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)  
+| **Tools and IDEs**             | [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,vercel)](https://skillicons.dev) 
+| **API & Testing**             | [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)  
 <br>
 <br>
 
