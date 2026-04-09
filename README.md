@@ -21,7 +21,7 @@
 | **Frontend Development**   | [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,redux)](https://skillicons.dev) 
 | **Backend Development**             | [![My Skills](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)  
 | **Databases**             | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)  
-| **Tools and IDEs**             | [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,vercel)](https://skillicons.dev) 
+| **Tools and IDEs**             | [![My Skills](https://skillicons.dev/icons?i=figma,vscode,eclipse,idea,vercel)](https://skillicons.dev) 
 | **API & Testing**             | [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)  
 <br>
 <br>
