@@ -15,6 +15,9 @@
 
 ### SKILLS
 
+
+
+
 | Category              | Technologies |
 |-----------------------|--------|
 | **Programming Language** | [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)  |
@@ -22,7 +25,7 @@
 | **Backend Development**             | [![My Skills](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)  
 | **Databases**             | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)  
 | **Tools and IDEs**             | [![My Skills](https://skillicons.dev/icons?i=figma,vscode,eclipse,idea,vercel)](https://skillicons.dev) 
-| **API & Testing**             | [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)  
+| **API & Testing**             | [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/swagger.png" width="50" height="50" />
 <br>
 <br>
 
