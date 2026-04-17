@@ -18,15 +18,54 @@
 
 
 
-| Category              | Technologies |
-|-----------------------|--------|
-| **Programming Language** | [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)  |
-| **Frontend Development**   | [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,redux)](https://skillicons.dev) 
-| **Backend Development**             | [![My Skills](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)  
-| **Databases**             | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)  
-| **Tools and IDEs**             | [![My Skills](https://skillicons.dev/icons?i=figma,vscode,eclipse,idea,vercel)](https://skillicons.dev) 
-| **API & Testing**             | [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/swagger.png" width="50" height="50" />
-<br>
+<table>
+  <tr>
+    <td><strong>Programming Language</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,python" height="50"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Frontend Development</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux" height="50"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Backend Development</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="50"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Tools and IDEs</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma,vscode,eclipse,idea,vercel" height="50"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>API & Testing</strong></td>
+    <td>
+      <span style="display: inline-flex; align-items: center; gap: 8px;">
+        <img src="https://skillicons.dev/icons?i=postman" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/swagger.png" height="50"/>
+      </span>
+    </td>
+  </tr>
+</table>
+
+<br><br>
 
 ### CONTACT EK 
 | Contact              | Platforms |
