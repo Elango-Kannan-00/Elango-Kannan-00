@@ -6,7 +6,7 @@
 
 - Computer Science Engineer undergraduate at Knowledge Institute of Technology, Salem. <br> 
 - Based in Namakkal, Tamil Nadu.
-- Current Learning: **Java and Web Development**  
+- Current Learning: **Backend Development**  
 - Looking to collaborate on: **Frontend Development**  
 - Reach me at: **elango.kiot@gmail.com**
 - Visit my Portfolio - [EK](https://portfolio-website-eta-nine-41.vercel.app/) 
