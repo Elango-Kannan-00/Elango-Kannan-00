@@ -29,7 +29,7 @@
   <tr>
     <td><strong>Frontend Development</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux" height="50"/>
+      <img src="https://skillicons.dev/icons?i=html,javascript" height="50"/>
     </td>
   </tr>
 
@@ -43,14 +43,14 @@
   <tr>
     <td><strong>Databases</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="50"/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" height="50"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Tools and IDEs</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=figma,vscode,eclipse,idea,vercel" height="50"/>
+      <img src="https://skillicons.dev/icons?i=figma,vscode,eclipse,vercel" height="50"/>
     </td>
   </tr>
 
