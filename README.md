@@ -36,7 +36,7 @@
   <tr>
     <td><strong>Backend Development</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
+      <img src="https://skillicons.dev/icons?i=fastapi, spring" height="50"/>
     </td>
   </tr>
 
