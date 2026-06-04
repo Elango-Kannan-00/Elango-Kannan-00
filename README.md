@@ -75,7 +75,7 @@
   <tr>
     <td><strong>Elango Kannan</strong></td>
     <td>
-      <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ek0/" target="_blank">
+      <a href="https://www.linkedin.com/in/ek0/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
       </a>
       <a href="mailto:elango.kiot@gmail.com" target="_blank">
