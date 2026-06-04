@@ -14,6 +14,10 @@
 
 <br>
 
+### Problem Solving
+
+<img src="https://gfgstatscard.vercel.app/elangokannan00" alt="GFG stats" />
+
 ### Skills
 
 <table>
@@ -48,7 +52,7 @@
   <tr>
     <td><strong>Tools and IDEs</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=figma,vscode,eclipse,vercel" height="50"/>
+      <img src="https://skillicons.dev/icons?i=figma,vscode,vercel" height="50"/>
     </td>
   </tr>
 
