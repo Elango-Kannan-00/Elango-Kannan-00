@@ -81,6 +81,9 @@
       <a href="mailto:elango.kiot@gmail.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
       </a>
+      <a href="https://www.instagram.com/elango_exe?igsh=ZnU4czFja3h3b3Nh" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+      </a>
     </td>
   </tr>
 </table>
