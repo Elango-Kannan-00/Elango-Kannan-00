@@ -18,13 +18,15 @@
 
 <img src="https://gfgstatscard.vercel.app/elangokannan00" alt="GFG stats" />
 
-### Skills
+<br>
+
+### Tools and Technologies
 
 <table>
   <tr>
     <td><strong>Programming Language</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=java,python" height="50"/>
+      <img src="https://skillicons.dev/icons?i=java" height="50"/>
     </td>
   </tr>
 
@@ -38,7 +40,7 @@
   <tr>
     <td><strong>Backend Development</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=fastapi,spring" height="50"/>
+      <img src="https://skillicons.dev/icons?i=spring" height="50"/>
     </td>
   </tr>
 
@@ -50,9 +52,9 @@
   </tr>
 
   <tr>
-    <td><strong>Tools and IDEs</strong></td>
+    <td><strong>DevOps & Containerization</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=figma,vscode,vercel" height="50"/>
+      <img src="https://skillicons.dev/icons?i=docker" height="50"/>
     </td>
   </tr>
 
@@ -63,6 +65,27 @@
         <img src="https://skillicons.dev/icons?i=postman" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/swagger.png" height="50"/>
       </span>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Deployment & Hosting</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vercel" height="50"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Version Control</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github" height="50"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Tools & IDEs</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=eclipse,vscode,figma" height="50"/>
     </td>
   </tr>
 </table>
