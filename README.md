@@ -26,35 +26,35 @@
   <tr>
     <td><strong>Programming Language</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=java" height="50"/>
+      <img src="https://skillicons.dev/icons?i=java"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Frontend Development</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript" height="50"/>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Backend Development</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=spring" height="50"/>
+      <img src="https://skillicons.dev/icons?i=spring"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Databases</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres" height="50"/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>DevOps & Containerization</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker" height="50"/>
+      <img src="https://skillicons.dev/icons?i=docker"/>
     </td>
   </tr>
 
@@ -62,7 +62,7 @@
     <td><strong>API & Testing</strong></td>
     <td>
       <span style="display: inline-flex; align-items: center; gap: 8px;">
-        <img src="https://skillicons.dev/icons?i=postman" height="50"/>
+        <img src="https://skillicons.dev/icons?i=postman"/>
         <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/swagger.png" height="50"/>
       </span>
     </td>
@@ -71,21 +71,21 @@
   <tr>
     <td><strong>Deployment & Hosting</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vercel" height="50"/>
+      <img src="https://skillicons.dev/icons?i=vercel"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Version Control</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github" height="50"/>
+      <img src="https://skillicons.dev/icons?i=git,github"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Tools & IDEs</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=eclipse,vscode,figma" height="50"/>
+      <img src="https://skillicons.dev/icons?i=eclipse,vscode,figma"/>
     </td>
   </tr>
 </table>
