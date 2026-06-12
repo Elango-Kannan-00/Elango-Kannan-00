@@ -14,11 +14,24 @@
 
 <br>
 
-### Problem Solving
+### Github Streak
 
-<img src="https://gfgstatscard.vercel.app/elangokannan00" alt="GFG stats" />
+<table>
+  <tr>
+    <td width="33%" align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Elango-Kannan-00&theme=github-dark&hide_border=true&border_radius=5.2&card_width=180&card_height=130&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Elango-Kannan-00&theme=github-dark&hide_border=true&border_radius=5.2&card_width=180&card_height=130&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+    </td>
+    <td width="33%" align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Elango-Kannan-00&theme=github-dark&hide_border=true&border_radius=5.2&card_width=180&card_height=130&hide_total_contributions=true&hide_current_streak=true" alt="GitHub Streak" /></a>
+    </td>
+  </tr>
+</table>
 
 <br>
+
 
 ### Tools and Technologies
 
